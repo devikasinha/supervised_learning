@@ -5,6 +5,7 @@ Welcome to the Supervised Machine Learning repository! This repository serves as
 ---
 
 ## 🚀 Algorithm Selection Workflow
+to automate the work with know dataset
 
 Choosing the right machine learning model depends directly on your dataset characteristics. Refer to the decision logic below to guide your selection:
 [ Start: Your Dataset ]
